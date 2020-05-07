@@ -29,3 +29,5 @@ sudo systemctl start docker
 
 echo " @@@ to add non root user to docker user group run below command follwed by user name @@@ "
 echo " sudo usermod -aG docker <username> "
+echo " relogin to the machine "
+echo " to check docker installed type $ docker --version "
