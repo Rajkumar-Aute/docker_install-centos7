@@ -1,7 +1,7 @@
 # docker_installation_script
 Script for docker installation on CentOS7
 
-clone the script file and add the executible permission to file.
+clone the script file and add the executable permission to file.
 
 In case git not installed on your machine follow the below steps
 
