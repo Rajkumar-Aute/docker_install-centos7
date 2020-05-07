@@ -13,5 +13,6 @@ git clone https://github.com/rajsaute/docker_installation_script.git \
 cd docker_installation_script\
 chmod +x install_docker_centos7.sh \
 sh ./install_docker_centos7.sh \
+docker --version
 
 '''
