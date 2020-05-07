@@ -5,7 +5,7 @@ clone the script file and add the executible permission to file.
 
 In case git not installed on your machine follow the below steps
 
-Login in into CentOs server and run below command
+Login in into CentOs7 server and run below command
 
 
 sudo yum install git -y \
