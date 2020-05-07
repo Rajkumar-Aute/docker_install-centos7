@@ -7,6 +7,7 @@ If git not installed on your machine follow the below steps
 
 Login in into CentOs server and run below command
 '''
+
 sudo yum install git -y \
 git clone https://github.com/rajsaute/docker_installation_script.git \
 cd docker_installation_script\
