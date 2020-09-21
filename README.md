@@ -19,6 +19,6 @@ or
 
 You can run below commands to install Docker on any flavor of OS.
 
-curl -fsSL https://get.docker.com -o get-docker.sh
-sh get-docker.sh
+curl -fsSL https://get.docker.com -o get-docker.sh \
+sh get-docker.sh \
 docker --version
